@@ -1,0 +1,24 @@
+﻿  源.cpp
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(216,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(221,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(444,112): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(543,142): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(947,74): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(1054,174): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  同时seq和分批-6工件.vcxproj -> C:\Users\wangck\source\repos\同时seq和分批-6工件\Debug\同时seq和分批-6工件.exe

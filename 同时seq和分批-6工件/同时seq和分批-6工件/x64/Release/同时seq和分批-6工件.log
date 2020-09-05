@@ -1,0 +1,29 @@
+﻿  源.cpp
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(204,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(209,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(432,112): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(531,142): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(935,74): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\wangck\source\repos\同时seq和分批-6工件\同时seq和分批-6工件\源.cpp(1042,174): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  正在生成代码
+  2 of 595 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  同时seq和分批-6工件.vcxproj -> C:\Users\wangck\source\repos\同时seq和分批-6工件\x64\Release\同时seq和分批-6工件.exe
